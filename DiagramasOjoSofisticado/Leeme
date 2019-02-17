@@ -1,3 +1,9 @@
+DESCRIPCION
+1. VariosWaveForming_file.grc y VariosWaveForming_ruido_file.grc son flujogramas que se pueden correr en gnuradio. El primero lo hace sin ruido, el segundo con ruido
+2. VariosWaveForming_file.grc genera 4 señales, una con forma de pulso rectangular, otra con forma de Nyquist, otro con la de Coseno Alzado y otra con Raiz del Coseno Alzado.
+3. Esas señales se guardan respectivamente en los archivos: Senal_Rect, Senal_Nyquist, Senal_RC y Senal_RRC
+4. Graficar_Ojo.py: es un programa hecho en Python para graficar el Diagrama de Ojo comparativo de las cuatro señales propuestas   
+
 PREREQUISITOS:
 Para correr exitosamente esta aplicación es necesario que previamente:
 1. Tener instalado python2.7
