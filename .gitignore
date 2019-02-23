@@ -1,2 +1,4 @@
-*.py
+Lab_total.py
+wform.py
+*,pyc
 pruebas/
